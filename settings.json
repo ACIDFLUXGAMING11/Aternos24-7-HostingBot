@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "gamerhindi",
-    "password": "",
+    "password": "its_flux",
     "type": "offline"
   },
   "server": {
     "ip": "FORESTSMP67.aternos.me",
     "port": 52327,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
